@@ -1,0 +1,59 @@
+#font-id {
+  font-family: 'Cinzel Decorative' !important;
+}
+
+.site-picture {
+  position: relative;
+  width: 50%;
+  left: 50px;
+  margin-top: 20px;
+}
+
+.site-title {
+  margin-top: 50px;
+  margin-right: 20px;
+}
+.nav {
+ 
+}
+.page-break {
+  max-width: 25%;
+  margin: auto;
+  
+}
+.head-1 {
+  float: right;
+  font-family: sanserif helvetica;
+}
+.head-2 {
+  position: relative;
+  float: right;
+  font-family: sanserif helvetica;
+  left:80px;
+  top:40px;
+}
+.mid {
+  background: rgb(250, 240, 220) !important;
+}
+.text-primary {
+  font-family: 
+}
+.img-parent {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.img-child {
+  position: relative;
+  top: 30px;
+  left: 50px;
+  width: 65%;
+  border-radius: 100%;
+}
+
+.social-stuff {
+  position: relative;
+  top: 40px;
+  left: 20px;
+  font-size: 32px;
+}
